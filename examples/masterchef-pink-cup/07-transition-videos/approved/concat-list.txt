@@ -1,0 +1,6 @@
+file 'shot-01-walk-to-station.mp4'
+file 'shot-02-sprint-to-pantry.mp4'
+file 'shot-03-flow-state.mp4'
+file 'shot-04-the-collapse.mp4'
+file 'shot-05-rebirth.mp4'
+file 'shot-06-the-verdict.mp4'

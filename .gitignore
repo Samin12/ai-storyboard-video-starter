@@ -1,0 +1,8 @@
+.DS_Store
+tmp/
+*.log
+node_modules/
+.env
+
+# Keep starter projects tidy. Remove this line if you want to commit every generated project.
+projects/*/tmp/
