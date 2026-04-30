@@ -15,6 +15,18 @@ What this example proves:
 
 ## How To Read This Example
 
+For a beginner workshop, copy this finished example into `projects/` first:
+
+```bash
+tools/setup-demo.sh demo-walkthrough --open
+```
+
+Then open:
+
+```text
+projects/demo-walkthrough/
+```
+
 Open folders in order:
 
 1. `01-creative-brief/approved/`

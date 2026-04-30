@@ -31,6 +31,35 @@ You do not need to understand filmmaking. The repo tells you what to do next.
 
 ## Start Here
 
+### Fastest Setup In Claude Code
+
+Paste this repo URL into Claude Code and say:
+
+```text
+Set up this repo for an absolute beginner. Run the beginner environment setup, open the demo in Finder, show me where the images/videos/prompts are, then create a blank project and help me start the creative brief.
+```
+
+Claude Code should run:
+
+```bash
+tools/setup-environment.sh --open
+```
+
+That creates:
+
+```text
+projects/demo-walkthrough/    a finished clickable example with real images and videos
+projects/my-first-video/      a blank project for your own video
+```
+
+Open this guide after setup:
+
+```text
+projects/START_HERE_AFTER_SETUP.md
+```
+
+More detail: [docs/claude-code-newbie-setup.md](docs/claude-code-newbie-setup.md)
+
 ### Option A: Use The Example First
 
 Open:
@@ -49,6 +78,12 @@ This is a finished example showing the whole flow:
 - Final output
 
 If you are new, look through this example before making your own project.
+
+To copy the finished example into `projects/` for a workshop walkthrough, run:
+
+```bash
+tools/setup-demo.sh demo-walkthrough --open
+```
 
 ### Option B: Create Your Own Project
 
@@ -71,6 +106,20 @@ templates/project-template/
 ```
 
 Then rename the copy to your project name.
+
+### Option C: Save Progress To GitHub
+
+After Claude Code generates useful files, ask:
+
+```text
+Commit and push this project progress to GitHub.
+```
+
+Claude Code can run:
+
+```bash
+tools/save-to-github.sh "Save storyboard project progress"
+```
 
 ## The One Rule
 
