@@ -15,6 +15,12 @@ That is the whole method.
 
 ![Storyboard to Video](docs/images/storyboard-to-video-process.png)
 
+## Visual Workflow
+
+This is the full process and folder structure in one picture:
+
+![Workflow and folder structure](docs/images/workflow-folder-structure.png)
+
 ## Who This Is For
 
 This repo is for total beginners who want a repeatable folder system for AI video projects.

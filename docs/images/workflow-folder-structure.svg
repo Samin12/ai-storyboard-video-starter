@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .bg { fill: #fbfaf7; }
+      .ink { fill: #1f1f1f; font-family: Arial, Helvetica, sans-serif; }
+      .muted { fill: #5f6368; font-family: Arial, Helvetica, sans-serif; }
+      .title { font-size: 58px; font-weight: 800; letter-spacing: -1px; }
+      .subtitle { font-size: 26px; font-weight: 500; }
+      .stepnum { font-size: 24px; font-weight: 800; }
+      .steptitle { font-size: 24px; font-weight: 800; }
+      .stepnote { font-size: 17px; font-weight: 500; }
+      .section { font-size: 30px; font-weight: 800; }
+      .tree { font-size: 24px; font-weight: 700; }
+      .treeSmall { font-size: 21px; font-weight: 700; }
+      .tiny { font-size: 17px; font-weight: 700; }
+      .card { fill: #ffffff; stroke: #222222; stroke-width: 3; }
+      .soft { fill: #ffffff; stroke: #d6d1c8; stroke-width: 3; }
+      .arrow { stroke: #222222; stroke-width: 5; fill: none; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#arrowHead); }
+      .thinArrow { stroke: #6b7280; stroke-width: 3; fill: none; stroke-linecap: round; stroke-linejoin: round; marker-end: url(#smallArrow); }
+      .line { stroke: #222222; stroke-width: 3; fill: none; stroke-linecap: round; }
+      .dash { stroke: #b9b2a6; stroke-width: 3; fill: none; stroke-dasharray: 8 8; }
+      .folder { fill: #fff4bf; stroke: #222222; stroke-width: 3; }
+      .attempt { fill: #eef2ff; stroke: #4f46e5; stroke-width: 2.5; }
+      .approved { fill: #dcfce7; stroke: #16a34a; stroke-width: 2.5; }
+      .disapproved { fill: #fee2e2; stroke: #dc2626; stroke-width: 2.5; }
+      .pink { fill: #ffd7e8; stroke: #222222; stroke-width: 3; }
+      .blue { fill: #dbeafe; stroke: #222222; stroke-width: 3; }
+      .green { fill: #dcfce7; stroke: #222222; stroke-width: 3; }
+      .yellow { fill: #fef3c7; stroke: #222222; stroke-width: 3; }
+      .purple { fill: #ede9fe; stroke: #222222; stroke-width: 3; }
+      .orange { fill: #ffedd5; stroke: #222222; stroke-width: 3; }
+    </style>
+    <marker id="arrowHead" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#222222"/>
+    </marker>
+    <marker id="smallArrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M1,1 L9,5 L1,9 Z" fill="#6b7280"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1920" height="1080"/>
+
+  <text class="ink title" x="80" y="88">Storyboard Video Workflow</text>
+  <text class="muted subtitle" x="82" y="132">Move left to right. Approve each step before the next one depends on it.</text>
+
+  <g transform="translate(74,178)">
+    <rect class="card yellow" x="0" y="0" width="172" height="134" rx="22"/>
+    <circle cx="34" cy="34" r="22" fill="#fff8d6" stroke="#222" stroke-width="3"/>
+    <text class="ink stepnum" x="26" y="43">1</text>
+    <text class="ink steptitle" x="24" y="78">Brief</text>
+    <text class="muted stepnote" x="24" y="106">story goal</text>
+  </g>
+
+  <path class="arrow" d="M258 245 C274 245, 285 245, 302 245"/>
+
+  <g transform="translate(318,178)">
+    <rect class="card blue" x="0" y="0" width="172" height="134" rx="22"/>
+    <circle cx="34" cy="34" r="22" fill="#eef7ff" stroke="#222" stroke-width="3"/>
+    <text class="ink stepnum" x="26" y="43">2</text>
+    <text class="ink steptitle" x="24" y="78">Refs</text>
+    <text class="muted stepnote" x="24" y="106">face, product</text>
+  </g>
+
+  <path class="arrow" d="M502 245 C518 245, 529 245, 546 245"/>
+
+  <g transform="translate(562,178)">
+    <rect class="card pink" x="0" y="0" width="172" height="134" rx="22"/>
+    <circle cx="34" cy="34" r="22" fill="#ffe8f1" stroke="#222" stroke-width="3"/>
+    <text class="ink stepnum" x="26" y="43">3</text>
+    <text class="ink steptitle" x="24" y="78">Shot List</text>
+    <text class="muted stepnote" x="24" y="106">F1 -> F2</text>
+  </g>
+
+  <path class="arrow" d="M746 245 C762 245, 773 245, 790 245"/>
+
+  <g transform="translate(806,178)">
+    <rect class="card purple" x="0" y="0" width="172" height="134" rx="22"/>
+    <circle cx="34" cy="34" r="22" fill="#f3efff" stroke="#222" stroke-width="3"/>
+    <text class="ink stepnum" x="26" y="43">4</text>
+    <text class="ink steptitle" x="24" y="78">Image</text>
+    <text class="ink steptitle" x="24" y="105">Prompts</text>
+  </g>
+
+  <path class="arrow" d="M990 245 C1006 245, 1017 245, 1034 245"/>
+
+  <g transform="translate(1050,178)">
+    <rect class="card green" x="0" y="0" width="172" height="134" rx="22"/>
+    <circle cx="34" cy="34" r="22" fill="#ebffee" stroke="#222" stroke-width="3"/>
+    <text class="ink stepnum" x="26" y="43">5</text>
+    <text class="ink steptitle" x="24" y="78">Frames</text>
+    <text class="muted stepnote" x="24" y="106">first + last</text>
+  </g>
+
+  <path class="arrow" d="M1234 245 C1250 245, 1261 245, 1278 245"/>
+
+  <g transform="translate(1294,178)">
+    <rect class="card purple" x="0" y="0" width="172" height="134" rx="22"/>
+    <circle cx="34" cy="34" r="22" fill="#f3efff" stroke="#222" stroke-width="3"/>
+    <text class="ink stepnum" x="26" y="43">6</text>
+    <text class="ink steptitle" x="24" y="78">Video</text>
+    <text class="ink steptitle" x="24" y="105">Prompts</text>
+  </g>
+
+  <path class="arrow" d="M1478 245 C1494 245, 1505 245, 1522 245"/>
+
+  <g transform="translate(1538,178)">
+    <rect class="card orange" x="0" y="0" width="172" height="134" rx="22"/>
+    <circle cx="34" cy="34" r="22" fill="#fff3e8" stroke="#222" stroke-width="3"/>
+    <text class="ink stepnum" x="26" y="43">7</text>
+    <text class="ink steptitle" x="24" y="78">Clips</text>
+    <text class="muted stepnote" x="24" y="106">short videos</text>
+  </g>
+
+  <path class="arrow" d="M1718 245 C1734 245, 1744 245, 1762 245"/>
+
+  <g transform="translate(1770,178)">
+    <rect class="card" x="0" y="0" width="92" height="134" rx="22"/>
+    <text class="ink stepnum" x="28" y="43">8</text>
+    <text class="ink steptitle" x="18" y="78">Stitch</text>
+    <text class="muted stepnote" x="19" y="106">final</text>
+  </g>
+
+  <path class="dash" d="M88 360 C420 420, 885 420, 1220 360"/>
+  <text class="muted tiny" x="760" y="392">approval gates keep drift from spreading</text>
+
+  <g transform="translate(80,438)">
+    <text class="ink section" x="0" y="0">Project folder structure</text>
+    <text class="muted subtitle" x="0" y="42">Each stage keeps drafts, locked files, and rejected versions separate.</text>
+
+    <rect class="soft" x="0" y="76" width="820" height="488" rx="28"/>
+    <g transform="translate(36,112)">
+      <path class="folder" d="M0 0 h110 l22 24 h304 a18 18 0 0 1 18 18 v302 a18 18 0 0 1 -18 18 h-436 a18 18 0 0 1 -18 -18 v-326 a18 18 0 0 1 18 -18z"/>
+      <text class="ink tree" x="30" y="66">my-video/</text>
+      <text class="ink treeSmall" x="62" y="112">01-creative-brief/</text>
+      <text class="ink treeSmall" x="62" y="148">02-references/</text>
+      <text class="ink treeSmall" x="62" y="184">03-shot-list/</text>
+      <text class="ink treeSmall" x="62" y="220">04-image-prompts/</text>
+      <text class="ink treeSmall" x="62" y="256">05-storyboard-frames/</text>
+      <text class="ink treeSmall" x="62" y="292">06-video-prompts/</text>
+      <text class="ink treeSmall" x="62" y="328">07-transition-videos/</text>
+    </g>
+
+    <g transform="translate(520,132)">
+      <rect class="attempt" x="0" y="0" width="230" height="78" rx="18"/>
+      <text class="ink treeSmall" x="24" y="34">attempts/</text>
+      <text class="muted tiny" x="24" y="58">rough drafts</text>
+      <rect class="approved" x="0" y="108" width="230" height="78" rx="18"/>
+      <text class="ink treeSmall" x="24" y="142">approved/</text>
+      <text class="muted tiny" x="24" y="166">locked inputs</text>
+      <rect class="disapproved" x="0" y="216" width="230" height="78" rx="18"/>
+      <text class="ink treeSmall" x="24" y="250">disapproved/</text>
+      <text class="muted tiny" x="24" y="274">rejected attempts</text>
+      <path class="thinArrow" d="M-70 42 C-42 42, -32 42, -8 42"/>
+      <path class="thinArrow" d="M-70 150 C-42 150, -32 150, -8 150"/>
+      <path class="thinArrow" d="M-70 258 C-42 258, -32 258, -8 258"/>
+    </g>
+  </g>
+
+  <g transform="translate(1010,438)">
+    <text class="ink section" x="0" y="0">How one shot is built</text>
+    <text class="muted subtitle" x="0" y="42">Approved frames become anchors for the video model.</text>
+
+    <rect class="soft" x="0" y="76" width="830" height="488" rx="28"/>
+
+    <g transform="translate(44,120)">
+      <rect class="card" x="0" y="0" width="190" height="236" rx="20"/>
+      <rect x="22" y="28" width="146" height="104" rx="12" fill="#111827"/>
+      <rect x="40" y="48" width="110" height="24" rx="4" fill="#f97316"/>
+      <rect x="64" y="92" width="62" height="70" rx="31" fill="#e5e7eb"/>
+      <text class="ink tiny" x="44" y="190">first-frame.png</text>
+    </g>
+
+    <path class="arrow" d="M260 238 C282 238, 300 238, 318 238"/>
+
+    <g transform="translate(332,120)">
+      <rect class="card purple" x="0" y="0" width="210" height="236" rx="20"/>
+      <text class="ink steptitle" x="36" y="62">video prompt</text>
+      <line class="line" x1="42" y1="102" x2="168" y2="102"/>
+      <line class="line" x1="42" y1="140" x2="150" y2="140"/>
+      <line class="line" x1="42" y1="178" x2="174" y2="178"/>
+      <circle cx="160" cy="140" r="12" fill="#ff80b5" stroke="#222" stroke-width="3"/>
+    </g>
+
+    <path class="arrow" d="M568 238 C584 238, 596 238, 612 238"/>
+
+    <g transform="translate(620,120)">
+      <rect class="card" x="0" y="0" width="190" height="236" rx="20"/>
+      <rect x="22" y="28" width="146" height="104" rx="12" fill="#111827"/>
+      <rect x="40" y="48" width="110" height="24" rx="4" fill="#f97316"/>
+      <path d="M82 94 q18 -28 46 0 q-10 48 -46 0z" fill="#facc15" stroke="#222" stroke-width="3"/>
+      <text class="ink tiny" x="44" y="190">last-frame.png</text>
+    </g>
+
+    <g transform="translate(90,398)">
+      <rect class="orange" x="0" y="0" width="650" height="58" rx="18"/>
+      <text class="ink treeSmall" x="26" y="37">approved clip: shot-01.mp4 -> shot-02.mp4 -> final-video.mp4</text>
+    </g>
+  </g>
+
+  <g transform="translate(80,1062)">
+    <rect class="approved" x="0" y="-44" width="310" height="52" rx="16"/>
+    <text class="ink treeSmall" x="22" y="-11">Approved files move forward</text>
+    <rect class="attempt" x="340" y="-44" width="268" height="52" rx="16"/>
+    <text class="ink treeSmall" x="362" y="-11">Attempts stay visible</text>
+    <rect class="disapproved" x="638" y="-44" width="332" height="52" rx="16"/>
+    <text class="ink treeSmall" x="660" y="-11">Disapproved files teach what to avoid</text>
+  </g>
+</svg>
