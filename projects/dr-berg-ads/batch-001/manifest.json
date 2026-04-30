@@ -1,0 +1,33 @@
+{
+  "batch": "001",
+  "date": "2026-04-30",
+  "jobs": [
+    {
+      "id": "51c00fda-70ca-472f-9471-3269bf6f4181",
+      "ad_type": "educational_hook",
+      "model": "grok_video",
+      "angle": "Hidden Vitamin Deficiency — Energy Hook",
+      "format": "9:16 vertical (TikTok/Reels)",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260430_212528_51c00fda-70ca-472f-9471-3269bf6f4181.mp4"
+    },
+    {
+      "id": "ad3de5d1-43f4-4095-89e0-23282f5c238d",
+      "ad_type": "product_showcase",
+      "model": "kling3_0",
+      "angle": "Electrolyte Powder Product Demo",
+      "format": "9:16 vertical (TikTok/Reels)",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260430_212532_ad3de5d1-43f4-4095-89e0-23282f5c238d.mp4"
+    },
+    {
+      "id": "ea3e582e-7011-4ea3-9bb4-b9000ce6c574",
+      "ad_type": "testimonial_transformation",
+      "model": "cinematic_studio_3_0",
+      "angle": "Keto + IF Before/After Transformation",
+      "format": "16:9 cinematic (YouTube/FB)",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260430_212534_ea3e582e-7011-4ea3-9bb4-b9000ce6c574.mp4"
+    }
+  ]
+}
