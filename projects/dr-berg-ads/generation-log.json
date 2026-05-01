@@ -44,5 +44,32 @@
         }
       ]
     }
-  ]
+  ],
+  "batch_2": {
+    "batch": 2,
+    "generated_at": "2026-05-01T23:30:20Z",
+    "ads": [
+      {
+        "id": "9ae3335d-b808-48ee-b47f-e147cb47d640",
+        "mode": "Product Review",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "69c1daac-44f7-4af9-820f-c665185e2948",
+        "mode": "Hyper Motion",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "79cc44bd-b078-420b-90f2-b173b236c717",
+        "mode": "Wild Card",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      }
+    ]
+  }
 }
