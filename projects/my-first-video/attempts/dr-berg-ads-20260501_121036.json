@@ -1,0 +1,34 @@
+{
+  "batch": "2026-05-01 hourly run",
+  "timestamp": "2026-05-01T12:10:00Z",
+  "status": "completed",
+  "ads": [
+    {
+      "job_id": "36054a42-bd25-4fd8-9747-ed33575c0423",
+      "theme": "Health Tip — Vitamin D Deficiency",
+      "angle": "Educational / symptom-awareness",
+      "model": "kling3_0",
+      "aspect_ratio": "9:16",
+      "duration": 10,
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_121010_36054a42-bd25-4fd8-9747-ed33575c0423.mp4"
+    },
+    {
+      "job_id": "62589622-7e55-487a-ad0b-da9bbcc3d186",
+      "theme": "Product Promotion — Electrolyte Powder",
+      "angle": "Before/after product demo",
+      "model": "kling3_0",
+      "aspect_ratio": "9:16",
+      "duration": 10,
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_121019_62589622-7e55-487a-ad0b-da9bbcc3d186.mp4"
+    },
+    {
+      "job_id": "7b36ab00-25e7-4760-a190-f79d98ad2cda",
+      "theme": "UGC Testimonial — Intermittent Fasting",
+      "angle": "Authentic user story",
+      "model": "kling3_0",
+      "aspect_ratio": "9:16",
+      "duration": 10,
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_121021_7b36ab00-25e7-4760-a190-f79d98ad2cda.mp4"
+    }
+  ]
+}
