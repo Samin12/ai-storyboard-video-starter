@@ -1,0 +1,40 @@
+{
+  "batch": 1,
+  "generated_at": "2026-05-01T21:24:45Z",
+  "model": "marketing_studio_video",
+  "ads": [
+    {
+      "id": "dccd068e-361d-40d7-8001-bbdf79727efa",
+      "style": "Tutorial / Educational",
+      "mode": "ugc_how_to",
+      "aspect_ratio": "9:16",
+      "duration_s": 15,
+      "audio": true,
+      "status": "completed",
+      "prompt": "Dr. Berg, a trusted health and nutrition expert, stands confidently in a clean studio setting explaining the science behind intermittent fasting and the keto diet. He points to a diagram showing fat-burning benefits, speaks directly to camera with authority and warmth. Text overlays highlight key facts. Ends with a clear call-to-action: 'Visit DrBerg.com to learn more.' Professional lighting, educational tone.",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_212445_dccd068e-361d-40d7-8001-bbdf79727efa.mp4"
+    },
+    {
+      "id": "7b1f3492-62f0-45a3-8ade-9f1f172d9048",
+      "style": "UGC Testimonial",
+      "mode": "ugc",
+      "aspect_ratio": "9:16",
+      "duration_s": 15,
+      "audio": true,
+      "status": "completed",
+      "prompt": "Authentic UGC-style testimonial ad for Dr. Berg's health supplements. A real-looking person in their 40s speaks directly to camera in natural home lighting, sharing how Dr. Berg's keto and intermittent fasting program helped them lose weight, feel energized, and regain confidence. Casual, relatable, enthusiastic. Ends with 'Check out DrBerg.com — it changed my life.' Handheld camera feel, portrait orientation.",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_212448_7b1f3492-62f0-45a3-8ade-9f1f172d9048.mp4"
+    },
+    {
+      "id": "7d4a25d9-73c2-4da9-acfb-c8a8ec1c1013",
+      "style": "TV Spot / Product Showcase",
+      "mode": "tv_spot",
+      "aspect_ratio": "16:9",
+      "duration_s": 15,
+      "audio": true,
+      "status": "completed",
+      "prompt": "High-production TV spot for Dr. Berg's nutritional supplement line. Cinematic shots of premium supplement bottles, fresh vegetables, and healthy active people. Voiceover: 'Your health is your wealth. Dr. Berg's science-backed supplements are formulated to help you thrive.' Dynamic editing, inspiring orchestral music, golden color grade. Closes with Dr. Berg logo and website. Polished, aspirational, premium brand feel.",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_212450_7d4a25d9-73c2-4da9-acfb-c8a8ec1c1013.mp4"
+    }
+  ]
+}
