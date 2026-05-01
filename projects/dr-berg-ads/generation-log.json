@@ -13,7 +13,8 @@
           "aspect_ratio": "16:9",
           "avatar": "Audrey",
           "duration": 15,
-          "status": "in_progress"
+          "status": "completed",
+          "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_222803_e6c7545d-0094-4fb5-9787-ee847227dca1.mp4"
         },
         {
           "id": "ff8822c2-c9b5-47a9-b2ff-0d19175d5b17",
@@ -21,7 +22,8 @@
           "aspect_ratio": "9:16",
           "avatar": "Kai",
           "duration": 15,
-          "status": "queued"
+          "status": "completed",
+          "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_222807_ff8822c2-c9b5-47a9-b2ff-0d19175d5b17.mp4"
         },
         {
           "id": "75b743a6-c32b-4207-a10c-ac394845aae4",
@@ -29,7 +31,16 @@
           "aspect_ratio": "16:9",
           "avatar": "Miso",
           "duration": 15,
-          "status": "queued"
+          "status": "nsfw_flagged_retry",
+          "note": "False-positive NSFW flag — retried with different avatar"
+        },
+        {
+          "id": "f00a2126-a721-4776-a11c-f2558fdeecf0",
+          "mode": "Tutorial (retry)",
+          "aspect_ratio": "16:9",
+          "avatar": "auto",
+          "duration": 15,
+          "status": "pending"
         }
       ]
     }
