@@ -1,0 +1,37 @@
+{
+  "product": "Dr. Berg's Daily Reboot Protocol Checklist",
+  "product_id": "8854a847-934a-4b32-808a-b93ab6fe9c6b",
+  "source_url": "https://www.drberg.com",
+  "batches": [
+    {
+      "batch": 1,
+      "generated_at": "2026-05-01T22:27:51Z",
+      "ads": [
+        {
+          "id": "e6c7545d-0094-4fb5-9787-ee847227dca1",
+          "mode": "TV Spot",
+          "aspect_ratio": "16:9",
+          "avatar": "Audrey",
+          "duration": 15,
+          "status": "in_progress"
+        },
+        {
+          "id": "ff8822c2-c9b5-47a9-b2ff-0d19175d5b17",
+          "mode": "UGC",
+          "aspect_ratio": "9:16",
+          "avatar": "Kai",
+          "duration": 15,
+          "status": "queued"
+        },
+        {
+          "id": "75b743a6-c32b-4207-a10c-ac394845aae4",
+          "mode": "Tutorial",
+          "aspect_ratio": "16:9",
+          "avatar": "Miso",
+          "duration": 15,
+          "status": "queued"
+        }
+      ]
+    }
+  ]
+}
