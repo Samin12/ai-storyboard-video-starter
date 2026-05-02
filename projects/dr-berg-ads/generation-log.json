@@ -1,0 +1,132 @@
+{
+  "product": "Dr. Berg's Daily Reboot Protocol Checklist",
+  "product_id": "8854a847-934a-4b32-808a-b93ab6fe9c6b",
+  "source_url": "https://www.drberg.com",
+  "batches": [
+    {
+      "batch": 1,
+      "generated_at": "2026-05-01T22:27:51Z",
+      "ads": [
+        {
+          "id": "e6c7545d-0094-4fb5-9787-ee847227dca1",
+          "mode": "TV Spot",
+          "aspect_ratio": "16:9",
+          "avatar": "Audrey",
+          "duration": 15,
+          "status": "completed",
+          "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_222803_e6c7545d-0094-4fb5-9787-ee847227dca1.mp4"
+        },
+        {
+          "id": "ff8822c2-c9b5-47a9-b2ff-0d19175d5b17",
+          "mode": "UGC",
+          "aspect_ratio": "9:16",
+          "avatar": "Kai",
+          "duration": 15,
+          "status": "completed",
+          "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260501_222807_ff8822c2-c9b5-47a9-b2ff-0d19175d5b17.mp4"
+        },
+        {
+          "id": "75b743a6-c32b-4207-a10c-ac394845aae4",
+          "mode": "Tutorial",
+          "aspect_ratio": "16:9",
+          "avatar": "Miso",
+          "duration": 15,
+          "status": "nsfw_flagged_retry",
+          "note": "False-positive NSFW flag — retried with different avatar"
+        },
+        {
+          "id": "f00a2126-a721-4776-a11c-f2558fdeecf0",
+          "mode": "Tutorial (retry)",
+          "aspect_ratio": "16:9",
+          "avatar": "auto",
+          "duration": 15,
+          "status": "pending"
+        }
+      ]
+    }
+  ],
+  "batch_4": {
+    "batch": 4,
+    "generated_at": "2026-05-02T01:31:37Z",
+    "ads": [
+      {
+        "id": "e09699fd-b350-493c-a344-bbe6119b95e0",
+        "mode": "TV Spot",
+        "angle": "busy professional health transformation",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "bbcc7ae3-7aae-4256-9786-6a0c8bb1977d",
+        "mode": "UGC",
+        "angle": "dad in 50s weight loss story",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "b7a4c8fe-73b9-4808-9057-b730bc8186c7",
+        "mode": "Tutorial",
+        "angle": "morning routine step-by-step",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      }
+    ]
+  },
+  "batch_3": {
+    "batch": 3,
+    "generated_at": "2026-05-02T00:30:57Z",
+    "ads": [
+      {
+        "id": "d57e9b7b-2916-4ff6-916a-7e3cfd612523",
+        "mode": "Unboxing",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "94cd9724-556f-4de2-ad6f-c7a7ea2f734b",
+        "mode": "UGC Virtual Try On",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "b85c0d12-408b-4058-adca-d8243f025ef1",
+        "mode": "Pro Virtual Try On",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      }
+    ]
+  },
+  "batch_2": {
+    "batch": 2,
+    "generated_at": "2026-05-01T23:30:20Z",
+    "ads": [
+      {
+        "id": "9ae3335d-b808-48ee-b47f-e147cb47d640",
+        "mode": "Product Review",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "69c1daac-44f7-4af9-820f-c665185e2948",
+        "mode": "Hyper Motion",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "79cc44bd-b078-420b-90f2-b173b236c717",
+        "mode": "Wild Card",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      }
+    ]
+  }
+}
