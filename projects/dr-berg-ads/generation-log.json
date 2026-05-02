@@ -45,6 +45,36 @@
       ]
     }
   ],
+  "batch_4": {
+    "batch": 4,
+    "generated_at": "2026-05-02T01:31:37Z",
+    "ads": [
+      {
+        "id": "e09699fd-b350-493c-a344-bbe6119b95e0",
+        "mode": "TV Spot",
+        "angle": "busy professional health transformation",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "bbcc7ae3-7aae-4256-9786-6a0c8bb1977d",
+        "mode": "UGC",
+        "angle": "dad in 50s weight loss story",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "b7a4c8fe-73b9-4808-9057-b730bc8186c7",
+        "mode": "Tutorial",
+        "angle": "morning routine step-by-step",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      }
+    ]
+  },
   "batch_3": {
     "batch": 3,
     "generated_at": "2026-05-02T00:30:57Z",
