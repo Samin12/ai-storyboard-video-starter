@@ -28,5 +28,5 @@
 - **Format:** 16:9 landscape, 15s, 720p, audio on
 - **Prompt:** Cinematic TV spot: Dr. Berg's proven method to reclaim your health, boost energy, and lose weight naturally. Powerful transformation story — inspiring, premium, broadcast-quality.
 - **Job ID:** `f48e4cdb-3451-49e1-a543-bd3697452f4e`
-- **Status:** ⏳ Rendering...
-- **Video:** (pending)
+- **Status:** ✅ Completed
+- **Video:** https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260502_220707_f48e4cdb-3451-49e1-a543-bd3697452f4e.mp4
