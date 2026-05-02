@@ -45,6 +45,33 @@
       ]
     }
   ],
+  "batch_3": {
+    "batch": 3,
+    "generated_at": "2026-05-02T00:30:57Z",
+    "ads": [
+      {
+        "id": "d57e9b7b-2916-4ff6-916a-7e3cfd612523",
+        "mode": "Unboxing",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "94cd9724-556f-4de2-ad6f-c7a7ea2f734b",
+        "mode": "UGC Virtual Try On",
+        "aspect_ratio": "9:16",
+        "duration": 15,
+        "status": "pending"
+      },
+      {
+        "id": "b85c0d12-408b-4058-adca-d8243f025ef1",
+        "mode": "Pro Virtual Try On",
+        "aspect_ratio": "16:9",
+        "duration": 15,
+        "status": "pending"
+      }
+    ]
+  },
   "batch_2": {
     "batch": 2,
     "generated_at": "2026-05-01T23:30:20Z",
