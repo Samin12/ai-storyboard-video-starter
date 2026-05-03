@@ -1,0 +1,33 @@
+{
+  "batch": 7,
+  "timestamp": "2026-05-03T06:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - Blood Sugar & Insulin Resistance",
+      "job_id": "2e46125c-69c5-4255-b40f-d3f8bcb4b48f",
+      "model": "cinematic_studio_video",
+      "style": "Educational authority, 16:9, 10s, with sound",
+      "concept": "Doctor at whiteboard draws insulin spike vs flat line — Dr. Berg Blood Sugar Formula",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Magnesium Deficiency (Magnesium Glycinate)",
+      "job_id": "1eb88586-1a85-40a1-83a1-36cf480a90f4",
+      "model": "seedance_2_0",
+      "style": "Drama genre, 1080p, 9:16, 10s",
+      "concept": "Rapid symptom montage (cramps, anxiety, insomnia) → deep calm after Dr. Berg Magnesium",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - Men's Health & Testosterone (T-Support)",
+      "job_id": "6b025cde-c221-4ca7-bcfd-62e1c08040d3",
+      "model": "veo3_1",
+      "style": "Ultra-realistic, high quality, 9:16, 8s",
+      "concept": "Man in 50s with low T deflation transforms to gym-confident, sharp, driven after Dr. Berg T-Support",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    }
+  ]
+}

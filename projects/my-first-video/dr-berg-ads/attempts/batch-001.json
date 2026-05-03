@@ -1,0 +1,33 @@
+{
+  "batch": 1,
+  "timestamp": "2026-05-03T00:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - TV Spot (Authoritative Expert)",
+      "job_id": "895c4c70-f566-46cd-a9cb-b9f570093894",
+      "model": "cinematic_studio_video_v2",
+      "style": "Cinematic TV commercial, 16:9, spectacle genre, pro mode",
+      "concept": "Health expert in white studio presenting Dr. Berg supplements directly to camera",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Transformation Story (Energy Before/After)",
+      "job_id": "bd865b1f-d2f0-4f6c-9421-56807dff0636",
+      "model": "kling3_0",
+      "style": "Multi-shot transformation montage, 9:16, pro mode, 10s",
+      "concept": "Tired person → takes Dr. Berg vitamins → energized and thriving outdoors",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - UGC Testimonial (Authentic Review)",
+      "job_id": "f37003c9-fa49-4cf7-aa8d-954c1d26e0b7",
+      "model": "marketing_studio_video",
+      "style": "UGC mode, 9:16, authentic home setting",
+      "concept": "Relatable person in 40s giving genuine 30-day supplement testimonial",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    }
+  ]
+}
