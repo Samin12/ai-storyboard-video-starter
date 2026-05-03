@@ -1,0 +1,33 @@
+{
+  "batch": 3,
+  "timestamp": "2026-05-03T02:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - Electrolyte Energy (Post-Workout Recharge)",
+      "job_id": "0b2f59ea-ae68-46e2-ba67-e6ff1c082c71",
+      "model": "veo3_1",
+      "style": "Ultra-realistic cinematic, 16:9, 8s, high quality",
+      "concept": "Depleted athlete takes Dr. Berg electrolytes and instantly revitalizes",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Stress & Cortisol Relief (Adrenal Support)",
+      "job_id": "9b4eab4a-3fe1-4c22-af0a-d170508a26bf",
+      "model": "seedance_2_0",
+      "style": "Identity-consistent montage, 9:16, 1080p, 10s",
+      "concept": "Stressed office worker → calm and centered after Dr. Berg Adrenal supplement",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - Women's Hormonal Health (Female Hormone Support)",
+      "job_id": "ef6d87da-689b-4984-b2b2-d2659857837e",
+      "model": "minimax_hailuo",
+      "style": "Natural physics, genuine facial emotion, 9:16, 10s",
+      "concept": "Woman in 40s struggling with hormonal imbalance → glowing and confident after Dr. Berg supplement",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    }
+  ]
+}
