@@ -25,5 +25,30 @@
 
 ---
 
-## Run 2 — (next hourly batch)
+## Run 2 — 2026-05-03 (hourly batch)
+
+### Ad 1: UGC — Doctor-to-Patient Potassium Trust
+- **Job ID:** `06729e5a-3097-4e13-8a12-6d7cf7f6ac04`
+- **Model:** marketing_studio_video (UGC mode)
+- **Aspect:** 9:16 (TikTok/Reels)
+- **Duration:** 15s
+- **Concept:** Dr. Berg in clinical office explaining potassium deficiency on keto, natural CTA to his Electrolyte supplement.
+
+### Ad 2: Hyper Motion — 30-Day Keto Reset Split Screen
+- **Job ID:** `79ee12c9-d9ee-4b13-968a-54abd5a651cc`
+- **Model:** marketing_studio_video (Hyper Motion mode)
+- **Aspect:** 9:16 (TikTok/Reels)
+- **Duration:** 15s
+- **Concept:** High-energy before/after split screen, bold text overlays, DrBerg.com free start CTA.
+
+### Ad 3: Unboxing — Keto Greens Powder
+- **Job ID:** `8f7a8f21-eb09-42da-819d-5e7c9fe9d4b3`
+- **Model:** marketing_studio_video (Unboxing mode)
+- **Aspect:** 9:16 (TikTok/Reels)
+- **Duration:** 15s
+- **Concept:** Dr. Berg unboxes and taste-tests Keto Greens Powder on camera, authentic no-filler messaging.
+
+---
+
+## Run 3 — (next hourly batch)
 _Pending..._
