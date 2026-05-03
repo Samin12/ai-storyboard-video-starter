@@ -1,0 +1,33 @@
+{
+  "batch": 8,
+  "timestamp": "2026-05-03T07:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - Gut Microbiome & Probiotics",
+      "job_id": "43278814-e6b4-4142-b04d-86e27627936a",
+      "model": "cinematic_studio_3_0",
+      "style": "Premium cinema-grade, 16:9, 12s",
+      "concept": "Microscopic gut ecosystem animation, 38 trillion bacteria stat, Dr. Berg Advanced Probiotic",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Skin Health & Collagen (Collagen Plus)",
+      "job_id": "076795a1-7b18-45f7-89c2-a8bebf3703e2",
+      "model": "marketing_studio_video",
+      "style": "Product Review mode, 9:16, 15s",
+      "concept": "Woman's skin transforms from dull/lined to plump/glowing with Dr. Berg Collagen Plus",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - Eye Health & Vision (Eye Formula)",
+      "job_id": "0c084a9c-577b-46e9-9c59-1c12f003ca68",
+      "model": "kling2_6",
+      "style": "Cinematic motion with sound, 9:16, 10s",
+      "concept": "Squinting screen-damaged vision → crystal clear sight after Dr. Berg Eye Formula with lutein",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    }
+  ]
+}
