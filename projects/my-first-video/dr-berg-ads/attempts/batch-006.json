@@ -1,0 +1,33 @@
+{
+  "batch": 6,
+  "timestamp": "2026-05-03T05:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - Thyroid Health (Metabolic Fire)",
+      "job_id": "6813aae3-d19d-4d3a-aa6c-1df8de9b8241",
+      "model": "cinematic_studio_video_v2",
+      "style": "Intimate genre, pro mode, 9:16, 12s",
+      "concept": "Woman with thyroid symptoms (cold, tired, weight gain) transforms after Dr. Berg Thyroid Support",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Hair Loss & Thinning (Hair Nutrients)",
+      "job_id": "93192f81-6f8b-45eb-a0a0-6dcc92a6ee20",
+      "model": "kling3_0",
+      "style": "Multi-shot before/after, pro mode, 9:16, 10s",
+      "concept": "Distressed person with thinning hair progresses to full healthy hair after Dr. Berg Hair Support",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - Anti-Aging & Longevity Formula",
+      "job_id": "d015ff35-1e23-4dd2-9ed4-0cc67adc7699",
+      "model": "grok_video",
+      "style": "Split-screen aspirational, 16:9, 10s",
+      "concept": "60-year-old with biology of a 40-year-old — Dr. Berg Longevity Formula cellular/mitochondrial health",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    }
+  ]
+}
