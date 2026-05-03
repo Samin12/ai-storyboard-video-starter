@@ -1,0 +1,33 @@
+{
+  "batch": 5,
+  "timestamp": "2026-05-03T04:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - Immune Defense (Zinc Formula)",
+      "job_id": "a529f8db-d40a-44eb-966c-8d1498ff6b99",
+      "model": "seedance_1_5",
+      "style": "Reliable motion, 16:9, 1080p, 8s",
+      "concept": "Person unaffected by cold/flu season after taking Dr. Berg Immune Formula with shield effect",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Joint Pain & Mobility (Joint Formula)",
+      "job_id": "64391ac3-1a04-4a12-8933-35045ba95930",
+      "model": "wan2_7",
+      "style": "Audio-sync character-consistent, 9:16, 1080p, 10s",
+      "concept": "Person in 50s struggling with knee pain → back on tennis court after Dr. Berg Joint Formula",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - Liver Detox & Cleanse",
+      "job_id": "0622fc81-0869-4221-9a5d-f1240efe93a1",
+      "model": "marketing_studio_video",
+      "style": "TV Spot mode, 9:16, 15s",
+      "concept": "Doctor explains liver function, shows sluggish-to-glowing transformation after Dr. Berg Liver Detox",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    }
+  ]
+}
