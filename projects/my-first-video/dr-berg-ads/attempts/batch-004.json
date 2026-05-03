@@ -1,0 +1,33 @@
+{
+  "batch": 4,
+  "timestamp": "2026-05-03T03:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - D3+K2 Sunshine Formula (Premium Cinematic)",
+      "job_id": "4d30842a-eece-4eb5-9f35-c644b7c42b8a",
+      "model": "cinematic_studio_3_0",
+      "style": "Most advanced cinema-grade, 16:9, 12s",
+      "concept": "Sunlight burst, person radiating vitality, molecular D3+K2 animation, epic wide-angle",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Digestive Health (Gut Relief)",
+      "job_id": "cdbbbe66-0511-4241-8985-4ce5aa36e119",
+      "model": "kling2_6",
+      "style": "Cinematic motion, 9:16, 10s, with sound",
+      "concept": "Bloated person in pain → takes Dr. Berg Digestive Formula → eating freely and laughing",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - Brain Fog & Mental Clarity (Focus Formula)",
+      "job_id": "4d2515a9-b4a1-4992-9992-177a973c49c0",
+      "model": "veo3_1_lite",
+      "style": "Fast, budget-efficient, 9:16, 6s",
+      "concept": "Struggling unfocused person → snaps to sharp mental clarity after Dr. Berg Brain Support",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    }
+  ]
+}
