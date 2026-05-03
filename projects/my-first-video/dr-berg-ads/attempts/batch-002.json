@@ -1,0 +1,33 @@
+{
+  "batch": 2,
+  "timestamp": "2026-05-03T01:00:00Z",
+  "ads": [
+    {
+      "name": "Ad 1 - Keto Education (Intermittent Fasting)",
+      "job_id": "0038e330-6aa3-49cc-a649-a948fd7ae571",
+      "model": "grok_video",
+      "style": "Educational whiteboard explainer, 16:9, 10s",
+      "concept": "Expert at whiteboard explaining what happens to body during 16-hour fast with animated infographics",
+      "aspect_ratio": "16:9",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 2 - Sleep Aid (Nighttime Calm)",
+      "job_id": "0f67fd51-c7cc-4075-ac8f-228fe9d5ac92",
+      "model": "cinematic_studio_video",
+      "style": "Slow motion cinematic, 9:16, 10s, with sound",
+      "concept": "Restless person in bed → takes Dr. Berg sleep supplement → deeply peaceful sleep in moonlight",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    },
+    {
+      "name": "Ad 3 - 30-Day Weight Loss Challenge",
+      "job_id": "5cb42db5-c5af-4e4e-b644-a24d01932214",
+      "model": "kling3_0",
+      "style": "Multi-shot day counter montage, 9:16, 10s, pro mode",
+      "concept": "Day 1/10/20/30 progression showing weight loss transformation with Dr. Berg supplements",
+      "aspect_ratio": "9:16",
+      "status": "pending"
+    }
+  ]
+}
