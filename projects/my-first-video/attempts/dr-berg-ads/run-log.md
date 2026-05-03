@@ -50,5 +50,14 @@
 
 ---
 
-## Run 3 — (next hourly batch)
-_Pending..._
+## Run 3 — 2026-05-03 (BLOCKED — out of credits)
+
+All three generation attempts failed:
+- UGC: Product Review — customer D3 & K2 bloodwork story
+- TV Spot: Cortisol/stress-eating, 16:9 cinematic
+- Wild Card: Courtroom parody exposing the food pyramid
+
+**Error:** `Out of credits on pro (monthly) plan in Private workspace.`
+**Action required:** Upgrade at https://higgsfield.ai/mcp-pricing/646b5b5f-98a3-44ba-88a9-8f2fbbc09b5c
+
+Loop paused. Re-run `/loop 1h Create three different ads for Dr. Berg...` after topping up credits.
