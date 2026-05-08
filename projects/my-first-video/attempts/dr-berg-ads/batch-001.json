@@ -1,0 +1,31 @@
+{
+  "batch": 1,
+  "generated_at": "2026-05-08",
+  "model": "grok_video",
+  "ads": [
+    {
+      "id": "ad-001",
+      "angle": "Health Benefit Focus",
+      "aspect_ratio": "16:9",
+      "duration": 15,
+      "job_id": "7f21ca93-709a-4f71-9367-15173a00a269",
+      "prompt": "A sleek, high-energy health advertisement for Dr. Berg's wellness brand. Dynamic visuals of a person waking up energized, preparing a clean keto meal, and moving with confidence and vitality. Bold text overlays: 'Dr. Berg - Unlock Real Health'. Bright modern color palette, cinematic lighting, uplifting music atmosphere. Professional TV commercial quality. 16:9 format."
+    },
+    {
+      "id": "ad-002",
+      "angle": "Testimonial Style",
+      "aspect_ratio": "9:16",
+      "duration": 15,
+      "job_id": "1a0050a5-dee6-470c-9742-e46c70f239b5",
+      "prompt": "An authentic UGC-style testimonial advertisement for Dr. Berg's health program. A relatable person speaks directly to camera in a warmly lit home kitchen, confidently sharing how they lost weight and gained energy through intermittent fasting. Genuine, trustworthy tone. On-screen text: 'I lost 35 lbs following Dr. Berg's method'. Before-and-after visual cues. Vertical 9:16 social media format, TikTok/Reels ready."
+    },
+    {
+      "id": "ad-003",
+      "angle": "Educational / Informational",
+      "aspect_ratio": "16:9",
+      "duration": 15,
+      "job_id": "be08d226-9054-4ac5-a2c5-82151ad052af",
+      "prompt": "An educational informational advertisement for Dr. Berg's YouTube health channel. A confident doctor-like expert in a clean studio with a whiteboard and animated health charts explains the science behind intermittent fasting and ketosis. Animated graphics overlay key statistics. Text: 'Dr. Berg Explains: Why You Can't Lose Weight'. Authoritative yet approachable tone, professional lighting. 16:9 format."
+    }
+  ]
+}
