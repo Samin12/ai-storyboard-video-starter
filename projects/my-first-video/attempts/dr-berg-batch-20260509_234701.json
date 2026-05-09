@@ -1,0 +1,24 @@
+{
+  "batch": 1,
+  "timestamp": "2026-05-09T23:47:01Z",
+  "ads": [
+    {
+      "id": "bfd8fece-1104-4dcc-a1ce-3b08e161544d",
+      "angle": "Educational / Health Tip",
+      "prompt": "Intermittent fasting #1 mistake — educational doctor-to-camera style",
+      "status": "pending"
+    },
+    {
+      "id": "45b8afcf-84af-4005-aa3f-c530d4ef8312",
+      "angle": "Product Promotion",
+      "prompt": "Dr. Berg Electrolyte Powder — lifestyle/product showcase",
+      "status": "pending"
+    },
+    {
+      "id": "121ae7dd-90db-4de1-90e8-88fbd2dae431",
+      "angle": "Testimonial / Transformation",
+      "prompt": "90-day keto + IF transformation story — social proof",
+      "status": "pending"
+    }
+  ]
+}
