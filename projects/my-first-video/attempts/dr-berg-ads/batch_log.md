@@ -11,3 +11,15 @@
 Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 
 ---
+
+## Batch 2 — 2026-05-10 (Hour 1)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Viral hook — "Why You're Always Tired" / Cortisol | f4ccb328-58cf-4563-8821-7cd1a39768e7 | pending |
+| 2 | Testimonial UGC — 40 lb keto transformation | d659e274-8244-4539-b83e-148eb1a39bf8 | pending |
+| 3 | Product — Nutritional Yeast B-Vitamins | accd6230-4408-40f6-b405-a616bf9d5118 | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
