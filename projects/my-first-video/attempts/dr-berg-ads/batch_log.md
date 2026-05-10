@@ -35,3 +35,15 @@ Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 
 ---
+
+## Batch 4 — 2026-05-10 (Hour 3)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Liver health — "Your liver is making you fat" | c4551ec2-d971-4e14-bc68-bb7f5ff48d9e | pending |
+| 2 | Sleep — Cortisol disruption / Sleep Aid | 70917524-8e50-4851-9de9-398221a05cb6 | pending |
+| 3 | Inflammation — Wheat Grass Juice Powder | f13d06ab-db8f-4baa-8ee1-a99568dd0ea9 | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
