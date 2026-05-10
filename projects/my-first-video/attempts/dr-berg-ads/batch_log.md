@@ -1,0 +1,13 @@
+# Dr. Berg Ad Generation Log
+
+## Batch 1 — 2026-05-10 (Session start)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Intermittent Fasting (hook: reset metabolism) | 9f7239ec-5d79-44b7-aeeb-71599143967d | pending |
+| 2 | Supplement — Electrolyte Powder | b3b1bc4e-82ad-4bdc-a13e-9d4c0a9c23f1 | pending |
+| 3 | Educational — Keto body transformation | 0b98bbe5-8ff4-4d31-8ba6-3de7f4d4989b | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
