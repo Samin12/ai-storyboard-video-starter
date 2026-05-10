@@ -59,3 +59,15 @@ Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 
 ---
+
+## Batch 6 — 2026-05-10 (Hour 5)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Magnesium deficiency — Glycinate formula | 1949282f-7987-4d3d-8f54-f1ccc85a1dde | pending |
+| 2 | 72-hour fasting timeline — autophagy education | ff99ebed-e456-4cef-804b-35b40f786060 | pending |
+| 3 | Cholesterol myth-bust — contrarian hook | ccd61895-be03-4f02-a90d-d51cd63fff44 | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
