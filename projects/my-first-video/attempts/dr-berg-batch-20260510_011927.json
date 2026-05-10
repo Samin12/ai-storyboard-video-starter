@@ -1,0 +1,24 @@
+{
+  "batch": 4,
+  "timestamp": "2026-05-10T01:19:27Z",
+  "ads": [
+    {
+      "id": "9b14d608-8a6b-488c-953d-2acab2095c53",
+      "angle": "Curiosity / FAQ",
+      "prompt": "Why am I not losing weight? — #1 question answered",
+      "status": "completed"
+    },
+    {
+      "id": "cca42a8e-f495-4e4c-ad8b-f274b659b427",
+      "angle": "Myth-Busting",
+      "prompt": "6 small meals / fat makes you fat — rapid debunks",
+      "status": "pending"
+    },
+    {
+      "id": "1fe34da6-e18b-48d9-a083-b453d988940b",
+      "angle": "Community / Movement",
+      "prompt": "13M strong — inclusive community join CTA",
+      "status": "pending"
+    }
+  ]
+}

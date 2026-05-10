@@ -1,0 +1,24 @@
+{
+  "batch": 2,
+  "timestamp": "2026-05-10T00:17:36Z",
+  "ads": [
+    {
+      "id": "38054514-f503-444a-aae2-043989083023",
+      "angle": "Authority / Credibility",
+      "prompt": "13M subscribers trust Dr. Berg — studio authority piece",
+      "status": "pending"
+    },
+    {
+      "id": "805134b0-16ab-4e05-adeb-416269911210",
+      "angle": "Problem-Agitate-Solve",
+      "prompt": "Fatigue/nutrient deficiency — problem to fix in 3 days",
+      "status": "pending"
+    },
+    {
+      "id": "37aee95a-e940-46ce-bbb6-29462a9ac686",
+      "angle": "Urgency / Limited-Time Offer",
+      "prompt": "Free 7-day keto meal plan giveaway — countdown CTA",
+      "status": "pending"
+    }
+  ]
+}
