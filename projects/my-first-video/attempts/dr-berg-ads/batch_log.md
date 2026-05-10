@@ -23,3 +23,15 @@ Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 
 ---
+
+## Batch 3 — 2026-05-10 (Hour 2)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Weight loss — "STOP counting calories / Insulin" | 4c763bd4-1118-4fd1-92aa-b3f4eabaf456 | pending |
+| 2 | Gut health — Probiotic product reveal | e121cd0a-64ae-4fd8-9bfb-afecc924bfb8 | pending |
+| 3 | Vitamin D3+K2 — deficiency awareness | ad3843af-1820-4042-ad2b-d54810a585f4 | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
