@@ -83,3 +83,15 @@ Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 
 ---
+
+## Batch 8 — 2026-05-10 (Hour 7)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Omega-3 / brain health — DHA neural connections | 8d571cf6-a9da-4748-a002-f898e08922c4 | pending |
+| 2 | Keto for women — hormonal balance approach | 9b305079-e073-42dc-aa3e-a6f0cb036be3 | pending |
+| 3 | Body type quiz — personalization hook | 3ebc9587-563b-456e-b831-b075c8455b26 | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
