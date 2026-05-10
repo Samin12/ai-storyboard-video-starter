@@ -1,0 +1,25 @@
+{
+  "batch": 4,
+  "timestamp": "2026-05-10T01:19:27Z",
+  "note": "2 of 3 jobs deferred due to concurrent job limit; will submit when slot clears",
+  "ads": [
+    {
+      "id": "9b14d608-8a6b-488c-953d-2acab2095c53",
+      "angle": "Curiosity / FAQ",
+      "prompt": "Why am I not losing weight? — #1 question answered",
+      "status": "in_progress"
+    },
+    {
+      "id": "pending",
+      "angle": "Myth-Busting",
+      "prompt": "6 small meals / fat makes you fat — rapid debunks",
+      "status": "deferred"
+    },
+    {
+      "id": "pending",
+      "angle": "Community / Movement",
+      "prompt": "13M strong — inclusive community join CTA",
+      "status": "deferred"
+    }
+  ]
+}
