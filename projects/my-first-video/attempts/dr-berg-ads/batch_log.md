@@ -71,3 +71,15 @@ Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 
 ---
+
+## Batch 7 — 2026-05-10 (Hour 6)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Zinc + Selenium — immune system defense | 8e1d3777-5017-4169-ad1f-f7a6d7e50c64 | pending |
+| 2 | Apple Cider Vinegar tablets — morning routine | f495d486-1c99-44e2-b28e-3bd069d74d6b | pending |
+| 3 | YouTube channel — 13M subscriber social proof | 29c7fe3c-faf9-4559-83ea-57c6b6222802 | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
