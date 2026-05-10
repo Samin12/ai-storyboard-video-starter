@@ -47,3 +47,15 @@ Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 Model: `kling3_0` | Format: 9:16 | Duration: 15s each
 
 ---
+
+## Batch 5 — 2026-05-10 (Hour 4)
+
+| # | Concept | Job ID | Status |
+|---|---------|--------|--------|
+| 1 | Thyroid — Iodine deficiency / sluggish metabolism | 3e5007a6-ea79-4e9c-a83f-df59f4a89d0f | pending |
+| 2 | Blood sugar — Pre-diabetes awareness / Berberine | fa410e0b-d949-4eb7-bd7d-2b690cd058c7 | pending |
+| 3 | Stress & Adrenal — Adaptogenic formula | f429c754-47c5-4157-8c39-8d9c4438ed1c | pending |
+
+Model: `kling3_0` | Format: 9:16 | Duration: 15s each
+
+---
