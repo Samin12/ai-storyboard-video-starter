@@ -1,0 +1,24 @@
+{
+  "batch": 3,
+  "timestamp": "2026-05-10T00:47:52Z",
+  "ads": [
+    {
+      "id": "5b7b3d9e-5fd0-4335-a538-e96157fcf99f",
+      "angle": "Lifestyle Aspiration",
+      "prompt": "This is what 50 can look like — hiking, cooking, family",
+      "status": "pending"
+    },
+    {
+      "id": "175ce682-180f-482a-b91d-9b887e1f0a7e",
+      "angle": "Social Proof",
+      "prompt": "2.4M people transformed — rapid-fire testimonials montage",
+      "status": "pending"
+    },
+    {
+      "id": "925938b4-9035-4d0b-b32a-a106f4a37938",
+      "angle": "Hook / Pattern Interrupt",
+      "prompt": "STOP eating breakfast — contrarian hook, debunked myths",
+      "status": "pending"
+    }
+  ]
+}
