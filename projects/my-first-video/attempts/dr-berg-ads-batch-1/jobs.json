@@ -1,0 +1,30 @@
+{
+  "batch": 1,
+  "created": "2026-05-14",
+  "ads": [
+    {
+      "id": "bbb38a2a-e114-4c7d-82a8-34d7b82879c0",
+      "concept": "UGC Testimonial Hook",
+      "style": "Relatable woman, kitchen, IF transformation story",
+      "hook": "I stopped eating 6 times a day and THIS happened to my body in 30 days",
+      "preset": "UGC",
+      "status": "pending"
+    },
+    {
+      "id": "819e2971-619a-4380-8d49-1be924cba1ec",
+      "concept": "Tutorial / Educational Hook",
+      "style": "Animated explainer, insulin spike visuals, keto alternatives",
+      "hook": "Why your body STORES fat (and it has nothing to do with calories)",
+      "preset": "Tutorial",
+      "status": "pending"
+    },
+    {
+      "id": "03fc6f25-2013-4b64-8b48-f1d005a8f85c",
+      "concept": "Premium TV Spot",
+      "style": "Cinematic, supplement bottle, healthy lifestyle B-roll",
+      "hook": "40 years of nutritional research. One mission — help you reclaim your health.",
+      "preset": "TV Spot",
+      "status": "pending"
+    }
+  ]
+}
