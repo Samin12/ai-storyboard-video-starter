@@ -1,0 +1,34 @@
+{
+  "batch": 1,
+  "generated_at": "2026-05-14",
+  "status": "completed",
+  "ads": [
+    {
+      "id": "ad-01-educational",
+      "angle": "Educational Hook",
+      "model": "kling3_0",
+      "job_id": "77eca3e9-42b8-40a9-a7f9-8efba19202ee",
+      "prompt": "A confident male health doctor in a clean modern studio looks directly into the camera and says 'This is the #1 reason you're exhausted every single day — and doctors never tell you.' Cut to animated infographic showing the adrenal-cortisol cycle, then back to the doctor pointing at the viewer. Bold white caption text on screen. Viral educational health TikTok ad style. Bright professional lighting, crisp 9:16 vertical framing, engaging and urgent pacing.",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260514_071139_77eca3e9-42b8-40a9-a7f9-8efba19202ee.mp4"
+    },
+    {
+      "id": "ad-02-product",
+      "angle": "Product UGC",
+      "model": "marketing_studio_video",
+      "job_id": "cc754c8c-4d6a-4cc2-8665-ce6d00bed5c0",
+      "prompt": "Sleek premium health supplement product ad for Dr. Berg's Electrolyte Powder. Close-up of a clean white and green supplement bottle with a glowing health aura. Hand scoops powder into a glass of sparkling water, dissolves instantly. Bold on-screen text: 'No Sugar. No Fillers. Real Results.' Energetic upbeat music, vibrant color grading, TikTok and Instagram Reels ready, 9:16 vertical ad format.",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260514_071143_cc754c8c-4d6a-4cc2-8665-ce6d00bed5c0.mp4"
+    },
+    {
+      "id": "ad-03-testimonial",
+      "angle": "Transformation Testimonial",
+      "model": "cinematic_studio_3_0",
+      "job_id": "f5e76fda-d488-462c-945b-e9cf3aa5160c",
+      "prompt": "Cinematic health transformation testimonial ad. Open on a tired, sluggish person sitting at a desk in dull lighting — text on screen: 'I was exhausted for 3 years.' Cut to same person 60 days later, glowing, energetic, outdoors in golden-hour sunlight — text: 'Then I found Dr. Berg.' Close-up on a smiling face with vibrant skin. Final frame: Dr. Berg logo and website URL on clean white background. Warm cinematic color grade, emotional orchestral score, 9:16 vertical format.",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260514_071146_f5e76fda-d488-462c-945b-e9cf3aa5160c.mp4"
+    }
+  ]
+}
