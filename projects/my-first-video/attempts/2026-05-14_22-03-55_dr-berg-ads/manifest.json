@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-05-14T22:03:55Z",
+  "model": "kling3_0",
+  "status": "completed",
+  "ads": [
+    {
+      "id": "ad-1-keto",
+      "topic": "Keto / Fat Burning",
+      "hook": "STOP COUNTING CALORIES",
+      "job_id": "c49927c2-8561-49b3-b75f-a563725eb4be",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260514_220405_c49927c2-8561-49b3-b75f-a563725eb4be.mp4",
+      "prompt": "Dr. Berg health education ad. A confident doctor in a white coat stands in a bright modern kitchen surrounded by avocados, eggs, and keto foods. Bold yellow text overlays: 'STOP COUNTING CALORIES'. Cut to animated fat cells shrinking rapidly. End card: 'Keto works because of THIS'. Cinematic clean aesthetic, green and white color palette, fast-paced motivational ad style."
+    },
+    {
+      "id": "ad-2-intermittent-fasting",
+      "topic": "Intermittent Fasting",
+      "hook": "EAT LESS OFTEN. LIVE LONGER.",
+      "job_id": "6802b8e2-35eb-400d-abb7-a91a969ddd71",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260514_220408_6802b8e2-35eb-400d-abb7-a91a969ddd71.mp4",
+      "prompt": "Dr. Berg intermittent fasting ad. Split screen: left — exhausted person eating 6 small meals, bloated and tired. Right — same person doing 16:8 fasting, energetic, lean, glowing. Bold white text: 'EAT LESS OFTEN. LIVE LONGER.' Animated clock showing fasting window. Clean modern health ad, blue and white tones, punchy fast cuts, motivational music vibe."
+    },
+    {
+      "id": "ad-3-vitamin-d",
+      "topic": "Vitamin D Deficiency",
+      "hook": "73% OF PEOPLE ARE DEFICIENT",
+      "job_id": "ee60b6bc-e55a-4fe5-a1f0-f321af0c93e9",
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260514_220412_ee60b6bc-e55a-4fe5-a1f0-f321af0c93e9.mp4",
+      "prompt": "Dr. Berg vitamin D deficiency ad. Dramatic shot of sunlight breaking through storm clouds. Cut to close-up of a fatigued person rubbing their eyes at a desk. Red warning text flashes: '73% OF PEOPLE ARE DEFICIENT'. Animated body scan highlighting bones, immune system, brain. End card: 'Are YOU missing this?'. Urgent, cinematic, dark-to-light color grade, health awareness ad style."
+    }
+  ]
+}
