@@ -39,3 +39,13 @@
 | 3 | Product Promo — Nutritional Yeast B Vitamins | e5a483eb-1772-4834-9524-8382894758f3 | kling3_0 | pending |
 
 ---
+
+## Batch 5 — 2026-05-15 (hour 5)
+
+| # | Theme | Job ID | Model | Status |
+|---|-------|--------|-------|--------|
+| 1 | Potassium Deficiency — The Epidemic Nobody Talks About | cba9d769-90a0-4b50-9d34-ff30e1f8ba77 | kling3_0 | pending |
+| 2 | Educational — IF Beginner Guide, No Willpower Required | 7ab85166-a0b5-4fdd-a458-5ec57a3497ab | kling3_0 | pending |
+| 3 | Awareness — What Modern Wheat Does to Your Body | f656ce96-0463-477e-b28d-3e551e8813f7 | kling3_0 | pending |
+
+---
