@@ -49,3 +49,13 @@
 | 3 | Awareness — What Modern Wheat Does to Your Body | f656ce96-0463-477e-b28d-3e551e8813f7 | kling3_0 | pending |
 
 ---
+
+## Batch 6 — 2026-05-15 (hour 6)
+
+| # | Theme | Job ID | Model | Status |
+|---|-------|--------|-------|--------|
+| 1 | Brain Health — Omega-3 Feed Your Brain or Lose It | aefcd32c-7a5a-43df-98a0-75ca73df9f59 | kling3_0 | pending |
+| 2 | Sugar Addiction — You Are Not Weak, You Are Addicted | 8281527f-99ad-423c-9632-8482f8091e57 | kling3_0 | pending |
+| 3 | Product Promo — Zinc Complex Deficiency Warning | 077caf70-cd73-4999-98c1-7a2c88cf20dd | kling3_0 | pending |
+
+---
