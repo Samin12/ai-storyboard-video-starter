@@ -19,3 +19,13 @@
 | 3 | Sleep Protocol — Poor Sleep Makes You Fat | e842a3d5-5289-43bb-9b14-714700c06dbd | kling3_0 | pending |
 
 ---
+
+## Batch 3 — 2026-05-15 (hour 3)
+
+| # | Theme | Job ID | Model | Status |
+|---|-------|--------|-------|--------|
+| 1 | Liver Health — 7-Day Fatty Liver Cleanse | 5bb5f239-c4d9-4ea6-848a-0c6fa4328d14 | kling3_0 | pending |
+| 2 | Insulin Resistance — Stop the Hunger Cycle | 20df41cc-861e-4bbb-bab1-52c7e92a50d4 | kling3_0 | pending |
+| 3 | Product Promo — Apple Cider Vinegar Capsules | 1ec4b8f7-f48e-4809-93d9-56725dfa5a95 | kling3_0 | pending |
+
+---
