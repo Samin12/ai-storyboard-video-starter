@@ -1,0 +1,33 @@
+{
+  "batch": 1,
+  "generated_at": "2026-05-15",
+  "ads": [
+    {
+      "id": "921b6614-fbfe-42e5-acf9-38dcae29d0fe",
+      "title": "Educational - Why You Cant Lose Weight",
+      "style": "educational",
+      "model": "seedance_2_0",
+      "aspect_ratio": "9:16",
+      "duration": 10,
+      "prompt": "Dr. Eric Berg educational cortisol/weight loss explainer, TikTok-style"
+    },
+    {
+      "id": "da300f51-9c9c-48b5-8938-a3c59f40be1d",
+      "title": "Testimonial - 60 Day Keto Transformation",
+      "style": "testimonial",
+      "model": "seedance_2_0",
+      "aspect_ratio": "9:16",
+      "duration": 12,
+      "prompt": "UGC-style testimonial, woman shares 28lb weight loss with Dr. Berg keto plan"
+    },
+    {
+      "id": "d5ca83fc-b4f3-43fd-9367-db5bc3e0f835",
+      "title": "Promotional - Electrolyte Powder Product Ad",
+      "style": "promotional",
+      "model": "kling3_0",
+      "aspect_ratio": "9:16",
+      "duration": 8,
+      "prompt": "High-energy product showcase for Dr. Berg Electrolyte Powder"
+    }
+  ]
+}
