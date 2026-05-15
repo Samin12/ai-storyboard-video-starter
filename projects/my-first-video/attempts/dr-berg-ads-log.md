@@ -29,3 +29,13 @@
 | 3 | Product Promo — Apple Cider Vinegar Capsules | 1ec4b8f7-f48e-4809-93d9-56725dfa5a95 | kling3_0 | pending |
 
 ---
+
+## Batch 4 — 2026-05-15 (hour 4)
+
+| # | Theme | Job ID | Model | Status |
+|---|-------|--------|-------|--------|
+| 1 | Thyroid Health — It's Not Your Fault | d4a3093d-adeb-439c-a092-ad00f0a3eeea | kling3_0 | pending |
+| 2 | Gut Health — Heal Your Gut, Heal Everything | 431064f9-5f3d-4ebc-8bc5-ac9408cc9d9f | kling3_0 | pending |
+| 3 | Product Promo — Nutritional Yeast B Vitamins | e5a483eb-1772-4834-9524-8382894758f3 | kling3_0 | pending |
+
+---
