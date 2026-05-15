@@ -1,6 +1,7 @@
 {
   "batch": 1,
   "generated_at": "2026-05-15",
+  "status": "completed",
   "ads": [
     {
       "id": "ad-01-fatigue-fix",
@@ -10,7 +11,9 @@
       "angle": "Fatigue & B-vitamin deficiency → Nutritional Yeast supplement",
       "style": "UGC-style, warm color grading",
       "format": "9:16 vertical (TikTok/Reels)",
-      "duration_s": 10
+      "duration_s": 10,
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260515_071122_b6775e1d-0bc0-47b0-8d40-b9daa64a7085.mp4"
     },
     {
       "id": "ad-02-keto-authority",
@@ -20,7 +23,9 @@
       "angle": "Keto diet truth from a credible health expert",
       "style": "Cinematic, professional, split-screen before/after",
       "format": "9:16 vertical (TikTok/Reels)",
-      "duration_s": 12
+      "duration_s": 12,
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260515_071126_ae1b54ae-5110-46e1-a114-7bfe3a1d036a.mp4"
     },
     {
       "id": "ad-03-electrolyte",
@@ -30,7 +35,9 @@
       "angle": "Athlete performance + clean ingredients = Dr. Berg Electrolytes",
       "style": "High-energy, fast-paced, vibrant",
       "format": "9:16 vertical (TikTok/Reels)",
-      "duration_s": 10
+      "duration_s": 10,
+      "status": "completed",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260515_071130_0886054f-3f1b-490b-afa4-2bdadf0bddc4.mp4"
     }
   ]
 }
