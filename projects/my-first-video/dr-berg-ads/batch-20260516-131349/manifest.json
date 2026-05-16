@@ -1,0 +1,31 @@
+{
+  "batch": "batch-20260516-131349",
+  "generated_at": "2026-05-16T13:13:49Z",
+  "note": "Images stored in Higgsfield — view/download from your Higgsfield dashboard or via the job IDs below.",
+  "ads": [
+    {
+      "angle": "Brain Health / Memory — Fear + Curiosity",
+      "headline": "YOUR BRAIN IS SHRINKING — AND THESE 3 FOODS ARE CAUSING IT",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "02b00e8e-c194-4fa0-918b-32037f5e721d",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_131342_02b00e8e-c194-4fa0-918b-32037f5e721d.png"
+    },
+    {
+      "angle": "Inflammation / Joint Pain — Urgent + Hopeful",
+      "headline": "CHRONIC PAIN IS NOT NORMAL — IT'S YOUR BODY SCREAMING FOR HELP",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "a7e349f6-6275-47c5-b6b3-5f68e4a58d60",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_131345_a7e349f6-6275-47c5-b6b3-5f68e4a58d60.png"
+    },
+    {
+      "angle": "Electrolytes / Keto Flu — Problem Solver",
+      "headline": "FEELING AWFUL ON KETO? YOU'RE MISSING THIS ONE THING",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "9a1e23b9-cd09-45c4-b8da-df4a6b861e42",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_131349_9a1e23b9-cd09-45c4-b8da-df4a6b861e42.png"
+    }
+  ]
+}

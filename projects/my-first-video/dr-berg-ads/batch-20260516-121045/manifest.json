@@ -1,0 +1,31 @@
+{
+  "batch": "batch-20260516-121045",
+  "generated_at": "2026-05-16T12:10:45Z",
+  "note": "Images stored in Higgsfield — view/download from your Higgsfield dashboard or via the job IDs below.",
+  "ads": [
+    {
+      "angle": "Blood Sugar / Insulin Resistance — Urgent Problem",
+      "headline": "YOUR BLOOD SUGAR IS SPIKING EVERY MEAL — HERE'S HOW TO STOP IT",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "f007ae59-ba77-41ac-8232-391518c26828",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_121037_f007ae59-ba77-41ac-8232-391518c26828.png"
+    },
+    {
+      "angle": "Thyroid Health — Empathy + Solution",
+      "headline": "SLOW THYROID? IT'S NOT YOUR FAULT — BUT THIS IS THE FIX",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "7631e01e-d98c-4fe9-86e3-a7245e00b079",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_121041_7631e01e-d98c-4fe9-86e3-a7245e00b079.png"
+    },
+    {
+      "angle": "Anti-Aging / Longevity — Premium CTA",
+      "headline": "THE REAL REASON YOU'RE AGING FASTER THAN YOU SHOULD",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "21a43934-f832-4c35-ad6f-e9a897b3de0b",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_121045_21a43934-f832-4c35-ad6f-e9a897b3de0b.png"
+    }
+  ]
+}

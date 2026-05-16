@@ -1,0 +1,31 @@
+{
+  "batch": "batch-20260516-134549",
+  "generated_at": "2026-05-16T13:45:49Z",
+  "note": "Images stored in Higgsfield — view/download from your Higgsfield dashboard or via the job IDs below.",
+  "ads": [
+    {
+      "angle": "Immune System — Fear + Authority",
+      "headline": "YOUR IMMUNE SYSTEM IS FAILING — AND YOU DON'T EVEN KNOW IT",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "826f7cbd-dfba-4e40-a213-7fb070205b04",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_134543_826f7cbd-dfba-4e40-a213-7fb070205b04.png"
+    },
+    {
+      "angle": "Hormone Balance / Menopause — Empathy + Solution",
+      "headline": "YOUR HORMONES ARE OUT OF CONTROL — HERE'S THE ROOT CAUSE",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "8f3ea9a7-2b15-4af9-acf5-300de1c4d5f6",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_134546_8f3ea9a7-2b15-4af9-acf5-300de1c4d5f6.png"
+    },
+    {
+      "angle": "Autophagy / Cellular Detox — Science Forward",
+      "headline": "YOUR CELLS ARE FULL OF JUNK — THIS IS HOW TO CLEAN THEM OUT",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "f639ce9d-5b7f-4119-ad3f-bffbb32cfb43",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_134549_f639ce9d-5b7f-4119-ad3f-bffbb32cfb43.png"
+    }
+  ]
+}
