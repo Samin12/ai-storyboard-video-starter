@@ -1,0 +1,31 @@
+{
+  "batch": "batch-20260516-144907",
+  "generated_at": "2026-05-16T14:49:07Z",
+  "note": "Images stored in Higgsfield — view/download from your Higgsfield dashboard or via the job IDs below.",
+  "ads": [
+    {
+      "angle": "Seed Oils / Processed Food — Investigative Exposé",
+      "headline": "THESE 8 OILS ARE SLOWLY POISONING YOU",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "766b4810-67c5-4512-afa2-74112d025083",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_144859_766b4810-67c5-4512-afa2-74112d025083.png"
+    },
+    {
+      "angle": "OMAD / One Meal A Day — Lifestyle Transformation",
+      "headline": "WHAT HAPPENS WHEN YOU ONLY EAT ONCE A DAY",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "086d2eae-42c1-4538-999e-d005313dc5bc",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_144903_086d2eae-42c1-4538-999e-d005313dc5bc.png"
+    },
+    {
+      "angle": "Zinc Deficiency — Immunity + Testosterone",
+      "headline": "LOW ZINC IS WRECKING YOUR IMMUNITY AND TESTOSTERONE",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "7e162021-9813-4373-9bb6-c8f1279878dd",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_144907_7e162021-9813-4373-9bb6-c8f1279878dd.png"
+    }
+  ]
+}
