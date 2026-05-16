@@ -1,0 +1,31 @@
+{
+  "batch": "batch-20260516-141722",
+  "generated_at": "2026-05-16T14:17:22Z",
+  "note": "Images stored in Higgsfield — view/download from your Higgsfield dashboard or via the job IDs below.",
+  "ads": [
+    {
+      "angle": "Heart Health / Cholesterol — Myth-Busting",
+      "headline": "CHOLESTEROL IS NOT KILLING YOU — THIS IS",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "6bf48ee5-1718-4db5-8fa5-e4c86ef9bbe9",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_141715_6bf48ee5-1718-4db5-8fa5-e4c86ef9bbe9.png"
+    },
+    {
+      "angle": "Magnesium Deficiency — Hidden Epidemic",
+      "headline": "80% OF PEOPLE ARE DEFICIENT IN THIS ONE MINERAL — ARE YOU?",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "33bea361-54d6-4d43-bfa0-4c776bb6fa0f",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_141718_33bea361-54d6-4d43-bfa0-4c776bb6fa0f.png"
+    },
+    {
+      "angle": "Carnivore / Animal-Based Diet — Contrarian",
+      "headline": "PLANTS ARE DESTROYING YOUR GUT — HERE'S WHAT TO EAT INSTEAD",
+      "model": "marketing_studio_image",
+      "aspect_ratio": "9:16",
+      "job_id": "fd6d845f-0dab-4b1b-9a56-b015946c7a72",
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_350w7OPvS56Tryimhv0KmfvBfqS/hf_20260516_141722_fd6d845f-0dab-4b1b-9a56-b015946c7a72.png"
+    }
+  ]
+}
