@@ -1,0 +1,46 @@
+{
+  "run_timestamp": "2026-05-16T__TIMESTAMP__",
+  "product": "Dr. Berg D3 & K2 Vitamin (product_id: 7dfebcd6-f77c-4d89-a6be-d23486473cbf)",
+  "ads": [
+    {
+      "id": 1,
+      "title": "UGC - Product Hit Hook - Nature Setting",
+      "job_id": "fe43f277-db52-48a9-97b8-18671dd006ca",
+      "preset": "UGC",
+      "hook": "Product Hit",
+      "hook_id": "3d45fb46-254f-4c83-9685-8e3d28945a67",
+      "setting": "Nature",
+      "setting_id": "10f47b85-abd7-4899-b6b6-91ff2969d3bf",
+      "aspect_ratio": "9:16",
+      "resolution": "1080p",
+      "cta": "Link in bio — your body will thank you",
+      "vibe": "Energetic outdoor discovery, relatable creator energy"
+    },
+    {
+      "id": 2,
+      "title": "Product Review - Interview Hook - Kitchen Setting",
+      "job_id": "e3ef2f5d-6f83-484f-a9ee-6d5040c457a6",
+      "preset": "Product Review",
+      "hook": "Interview",
+      "hook_id": "26cac2dd-99cb-4818-a678-509b0dab2c32",
+      "setting": "Kitchen",
+      "setting_id": "a0eb0be9-f0ff-4aee-9dee-69d9fd20110a",
+      "aspect_ratio": "9:16",
+      "resolution": "1080p",
+      "cta": "Try it risk-free for 30 days",
+      "vibe": "Authentic testimonial, trust-building, social proof"
+    },
+    {
+      "id": 3,
+      "title": "TV Spot - Cinematic Wide Format",
+      "job_id": "61f6247d-417f-4aea-a263-761a5693b6b8",
+      "preset": "TV Spot",
+      "hook": "none (TV Spot preset)",
+      "setting": "none (TV Spot preset)",
+      "aspect_ratio": "16:9",
+      "resolution": "1080p",
+      "cta": "Start your daily reboot at drberg.com",
+      "vibe": "Premium brand authority, cinematic storytelling"
+    }
+  ]
+}
