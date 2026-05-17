@@ -42,3 +42,14 @@ Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
 Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
+
+## Batch 5 — 2026-05-17 (Hour 5)
+
+| # | Angle | Job ID | Status |
+|---|-------|--------|--------|
+| 1 | Quick-Tip/Hack (3 signs you're in fat-storage mode) | b8d2f0b8-60b7-4971-ae77-8fd3fc66e581 | ✅ completed |
+| 2 | Supplement Focus (keto electrolytes, product-forward) | d0bb088c-05f4-4ea3-b3ab-298d64b2864d | ✅ completed |
+| 3 | Skeptic-to-Believer (eye-roller → 35lbs down, off meds) | f45c98bf-8bf5-4061-8df8-4fb9a33dab67 | ✅ completed |
+
+Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
+
