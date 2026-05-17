@@ -9,3 +9,14 @@
 
 Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
+
+## Batch 2 — 2026-05-17 (Hour 2)
+
+| # | Angle | Job ID | Status |
+|---|-------|--------|--------|
+| 1 | Problem/Agitation/Solution (brain fog → keto fix) | ad16debb-b7c0-4fd8-8f23-897e9dadda77 | ✅ completed |
+| 2 | Authority/Credibility (white coat, 30 years expertise) | 95e757f0-3c64-4b3b-b469-e57f439d2a89 | ✅ completed |
+| 3 | Curiosity/Pattern-interrupt (morning food blocking fat burn) | 77d7fa03-dbc1-4cb6-ae7d-9994675f3db2 | ✅ completed |
+
+Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
+
