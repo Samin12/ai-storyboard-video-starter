@@ -31,3 +31,14 @@ Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
 Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
+
+## Batch 4 — 2026-05-17 (Hour 4)
+
+| # | Angle | Job ID | Status |
+|---|-------|--------|--------|
+| 1 | Lifestyle/Aspiration (golden hour, vibrant 50yr-old) | f95e8824-0874-4bf3-af45-75d07b553660 | ✅ completed |
+| 2 | Doctor's Warning (insulin danger, clinical urgency) | 942fd57c-6a5e-4c6e-a244-e2f1280e0877 | ✅ completed |
+| 3 | Day-in-the-Life (6am–8pm IF lifestyle follow) | 93938ab0-6e2d-4188-80c7-29d29d87159e | ✅ completed |
+
+Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
+
