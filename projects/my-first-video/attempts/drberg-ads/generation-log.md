@@ -75,3 +75,14 @@ Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
 Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
+
+## Batch 8 — 2026-05-17 (Hour 8)
+
+| # | Angle | Job ID | Status |
+|---|-------|--------|--------|
+| 1 | Men's Health/Testosterone (sugar kills T after 40) | 1373c7b8-804a-4c03-984c-bf80b849f330 | ✅ completed |
+| 2 | Stress & Cortisol (cortisol-fat cycle, empathetic) | 5330973e-909c-457c-baf6-42b4b6025a17 | ✅ completed |
+| 3 | Meal Prep/How-To (full week keto in 45 min) | 792c7ba2-2708-4ba9-938f-257b685c9654 | ✅ completed |
+
+Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
+
