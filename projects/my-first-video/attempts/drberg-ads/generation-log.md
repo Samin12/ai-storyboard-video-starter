@@ -53,3 +53,14 @@ Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
 Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
+
+## Batch 6 — 2026-05-17 (Hour 6)
+
+| # | Angle | Job ID | Status |
+|---|-------|--------|--------|
+| 1 | Before/After Visual Transformation (-42lbs split screen) | 6f716b80-ff60-4a17-8896-188c6f230769 | ✅ completed |
+| 2 | Q&A Debunk (breakfast myth, cereal companies origin) | b6ba76bb-8103-46b9-8cd1-a8b167531ac0 | ✅ completed |
+| 3 | Free Resource Lead-Gen (free keto starter guide, no catch) | a07a2a53-16f0-4137-b9f7-d47fc857510e | ✅ completed |
+
+Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
+
