@@ -20,3 +20,14 @@ Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
 Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
+
+## Batch 3 — 2026-05-17 (Hour 3)
+
+| # | Angle | Job ID | Status |
+|---|-------|--------|--------|
+| 1 | FOMO (split-screen, 2M people already switched) | 3b5a1151-cf8e-462c-af62-fd53a2091547 | ✅ completed |
+| 2 | Social Proof/Community (500K+ success stories montage) | 404cd029-e92d-46ad-8158-f0dc582d9f11 | ✅ completed |
+| 3 | Myth-Busting (whiteboard, 3 myths crossed out) | d624f1ae-79a3-48d3-aec6-b319b8e7ee9d | ✅ completed |
+
+Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
+
