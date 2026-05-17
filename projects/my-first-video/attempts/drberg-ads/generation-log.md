@@ -64,3 +64,14 @@ Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
 Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
 
+
+## Batch 7 — 2026-05-17 (Hour 7)
+
+| # | Angle | Job ID | Status |
+|---|-------|--------|--------|
+| 1 | Hormone Reset (cortisol/insulin diagram, 30-day reset) | 61d4e4c3-2589-48dd-ad63-24a4dd8f7ccd | ✅ completed |
+| 2 | Senior Health (65yr-old woman, better than at 45) | f3f37273-71f1-4e40-bda1-7e6bbdeffe8f | ✅ completed |
+| 3 | 7-Day Keto Challenge (gamified, 3-rule countdown) | f98a8bbd-a67c-49fb-a2cd-90608db2d7eb | ✅ completed |
+
+Model: kling3_0 | Format: 9:16 | Duration: 15s | Audio: on
+
